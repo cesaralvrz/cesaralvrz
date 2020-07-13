@@ -1,6 +1,6 @@
-[![César Álvarez Llaneza.](img/banner.png)](https://cesaralvarez.js.org/)
+![](img/banner.png)
 
-### Hi there 👋
+### About me 👋
 
 <!--
 **cesaralvrz/cesaralvrz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
