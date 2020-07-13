@@ -1,18 +1,16 @@
-![César Álvarez](https://github.com/cesaralvrz/cesaralvrz/blob/master/img/banner.png)
+[![César Álvarez](https://github.com/cesaralvrz/cesaralvrz/blob/master/img/banner.png)](https://cesaralvarez.js.org/)
 
 ### About me:
 
 <!--
-**cesaralvrz/cesaralvrz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+ Thank you for visiting my README.md file here check this video out: 
 -->
+
+* My name is César Álvarez Llaneza
+* I'm from Spain (Asturias)
+* I Study Business Administration of Technological Companies
+* I love to work with JavaScript & Python
+
+---
+
+👇🏻 Here is a list of the Open Source projects I work on: 👇🏻
