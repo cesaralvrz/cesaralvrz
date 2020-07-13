@@ -13,4 +13,4 @@
 
 ---
 
-👇🏻 Here is a list of the Open Source projects I work on: 👇🏻
+👇🏻  Here is a list of the Open Source projects I work on: 👇🏻
