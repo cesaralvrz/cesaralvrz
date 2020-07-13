@@ -1,4 +1,4 @@
-![César](img/banner.png)
+![César](img/banner.jpg)
 
 ### About me:
 
