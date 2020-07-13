@@ -1,4 +1,4 @@
-![César](https://imgur.com/a/17b5YgZ)
+![César](img/banner.png)
 
 ### About me:
 
