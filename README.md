@@ -3,7 +3,7 @@
 ### ABOUT ME 📌
 
 <!--
- Thank you for visiting my README.md file here check this video out: 
+ Thank you for visiting my README.md file here check this video out: https://www.youtube.com/watch?v=0ZGbIKd0XrM 
 -->
 
 * My name is César Álvarez Llaneza
