@@ -1,4 +1,4 @@
-![César](img/banner.jpg)
+![César Álvarez](https://github.com/cesaralvrz/cesaralvrz/blob/master/img/banner.png)
 
 ### About me:
 
