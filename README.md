@@ -1,4 +1,4 @@
-[![César Álvarez Llaneza.](img/banner)](https://cesaralvarez.js.org/)
+[![César Álvarez Llaneza.](img/banner.png)](https://cesaralvarez.js.org/)
 
 ### Hi there 👋
 
