@@ -7,9 +7,9 @@
 -->
 
 * My name is César Álvarez Llaneza
-* I'm from Spain (Asturias)
 * I Study Business Administration of Technological Companies
-* I love to work with JavaScript & Python  
+* I love to create web applications and websites
+* JavaScript and Python as my favorite languages to use
 
 ---
 
