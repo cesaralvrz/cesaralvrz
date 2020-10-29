@@ -7,7 +7,7 @@
 -->
 
 * My name is César Álvarez Llaneza
-* I Study Business Administration of Technological Companies
+* I Study a degree in Business Administration of Technological Companies
 * I love to create web applications and websites
 
 ## TECH STACK 👨‍💻
