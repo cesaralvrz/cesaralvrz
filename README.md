@@ -21,9 +21,6 @@
 <a href="https://www.linkedin.com/in/cesaralvarezllaneza/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="mailto:cesaralvrzll@gmail.com"><img alt="email" src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white"></a>
 
-### Spotify Playing 🎧
-
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="César Spotify Playing" width="350" />](https://open.spotify.com/user/12161688400?si=dIdIYftkRzyUb3GOz62XgQ)
 
 ## PROJECTS 📚
 
