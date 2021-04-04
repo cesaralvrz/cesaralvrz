@@ -12,8 +12,8 @@
  Thank you for visiting my README.md file here check this video out: https://www.youtube.com/watch?v=0ZGbIKd0XrM 
 -->
 
-* I am A Fullstack developer from [Asturias, Spain](https://www.youtube.com/watch?v=g4dUHEkAL4M&ab_channel=TurismoAsturias) 🇪🇸
-* Degree in Business Administration of Technological Companies
+* I am a Fullstack developer from [Asturias, Spain](https://www.youtube.com/watch?v=g4dUHEkAL4M&ab_channel=TurismoAsturias) 🇪🇸
+* Degree in Business Administration of Technological Companies 🎓
 * Founder of [Acadeller](https://github.com/Acadeller) 💡
 
 ## Tech Stack <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
