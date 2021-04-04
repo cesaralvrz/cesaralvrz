@@ -2,7 +2,7 @@
 
 ## Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-[![Linkedin Badge](https://img.shields.io/badge/-Anurag%20Singh-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/cesaralvarezllaneza/)](https://www.linkedin.com/in/cesaralvarezllaneza/)
+[![Linkedin Badge](https://img.shields.io/badge/-C%C3%A9sar%20Alvarez%20Llaneza-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/cesaralvarezllaneza/)](https://www.linkedin.com/in/cesaralvarezllaneza/)
 
 <!--
  Thank you for visiting my README.md file here check this video out: https://www.youtube.com/watch?v=0ZGbIKd0XrM 
