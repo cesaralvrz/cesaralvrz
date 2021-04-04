@@ -29,14 +29,11 @@
 <code><img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 
-<br>
-
 ### Github Stats
 
 ![Stats Overview](https://raw.githubusercontent.com/cesaralvrz/github-stats-transparent/output/generated/overview.svg)
 ![Most Used Languages](https://raw.githubusercontent.com/cesaralvrz/github-stats-transparent/output/generated/languages.svg)
 
-<br>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=cesaralvrz.cesaralvrz)
 
