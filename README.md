@@ -22,6 +22,5 @@
 <a href="mailto:cesaralvrzll@gmail.com"><img alt="email" src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white"></a>
 
 
-## PROJECTS 📚
 
-👇🏻 Here is a list of the Open Source projects I work on: 👇🏻
+![](https://visitor-badge.glitch.me/badge?page_id=cesaralvrz.cesaralvrz)
