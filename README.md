@@ -32,4 +32,6 @@
 
 <br>
 
+<div align="right">
 ![](https://visitor-badge.glitch.me/badge?page_id=cesaralvrz.cesaralvrz)
+ </div>
