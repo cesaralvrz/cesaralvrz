@@ -3,8 +3,8 @@
 ## Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 [![Linkedin Badge](https://img.shields.io/badge/-C%C3%A9sar%20Alvarez%20Llaneza-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/cesaralvarezllaneza/)](https://www.linkedin.com/in/cesaralvarezllaneza/)
-
 [![Gmail Badge](https://img.shields.io/badge/-cesaralvrzll-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:cesaralvrzll@gmail.com)](mailto:cesaralvrzll@gmail.com)
+[![Website](https://img.shields.io/badge/cesaralvarez.js.org--green?style=social&logo=google%20chrome)](https://cesaralvarez.js.org/) 
 
 <!--
  Thank you for visiting my README.md file here check this video out: https://www.youtube.com/watch?v=0ZGbIKd0XrM 
