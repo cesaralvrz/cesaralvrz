@@ -1,6 +1,6 @@
 [![César Álvarez](https://github.com/cesaralvrz/cesaralvrz/blob/master/img/banner.png)](https://cesaralvarez.js.org/)
 
-## HEY THERE <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+## Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 <!--
  Thank you for visiting my README.md file here check this video out: https://www.youtube.com/watch?v=0ZGbIKd0XrM 
