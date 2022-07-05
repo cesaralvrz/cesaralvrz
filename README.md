@@ -1,6 +1,6 @@
 [![César Álvarez](https://github.com/cesaralvrz/cesaralvrz/blob/master/img/banner.png)](https://cesaralvarez.js.org/)
 
-## Hey, I'm César Álvarez Llaneza <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+## Hey, I'm César Álvarez Llaneza 👋
 
 [![Linkedin Badge](https://img.shields.io/badge/-C%C3%A9sar%20Álvarez%20Llaneza-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/cesaralvarezllaneza/)](https://www.linkedin.com/in/cesaralvarezllaneza/)
 [![Gmail Badge](https://img.shields.io/badge/-cesaralvrzll-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:cesaralvrzll@gmail.com)](mailto:cesaralvrzll@gmail.com)
