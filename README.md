@@ -4,7 +4,6 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-C%C3%A9sar%20Álvarez%20Llaneza-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/cesaralvarezllaneza/)](https://www.linkedin.com/in/cesaralvarezllaneza/)
 [![Gmail Badge](https://img.shields.io/badge/-cesaralvrzll-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:cesaralvrzll@gmail.com)](mailto:cesaralvrzll@gmail.com)
-[![Website](https://img.shields.io/badge/cesaralvarez.dev--green?style=social&logo=google%20chrome)](https://cesaralvarez.dev/) 
 [![GitHub followers](https://img.shields.io/github/followers/cesaralvrz?label=Follow&style=social)](https://github.com/cesaralvrz) 
 
 <!--
@@ -12,7 +11,7 @@
 -->
 
 * I am a Frontend Developer from [Asturias, Spain](https://www.youtube.com/watch?v=g4dUHEkAL4M&ab_channel=TurismoAsturias) 🇪🇸
-* Degree in Business Administration of Technological Companies 🎓
+* Visit my [personal website](https://cesaralvarez.dev/) 
 * Techstack: `.js`, `.vue`, `.jsx`, `.html`, `.css`, `.py` 
 * Founder of [Acadeller](https://github.com/Acadeller) 💡
 
