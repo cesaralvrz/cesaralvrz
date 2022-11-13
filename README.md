@@ -12,7 +12,7 @@
  Thank you for visiting my README.md file here check this video out: https://www.youtube.com/watch?v=0ZGbIKd0XrM 
 -->
 
-* I am a Frontend developer from [Asturias, Spain](https://www.youtube.com/watch?v=g4dUHEkAL4M&ab_channel=TurismoAsturias) 🇪🇸
+* I am a Frontend Developer from [Asturias, Spain](https://www.youtube.com/watch?v=g4dUHEkAL4M&ab_channel=TurismoAsturias) 🇪🇸
 * Degree in Business Administration of Technological Companies 🎓
 * Techstack: `.js`, `.vue`, `.jsx`, `.html`, `.css`, `.py` 
 * Founder of [Acadeller](https://github.com/Acadeller) 💡
