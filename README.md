@@ -23,3 +23,13 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=cesaralvrz.cesaralvrz)
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=cesaralvrz&theme=prussian&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=cesaralvrz&theme=prussian&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=cesaralvrz&theme=prussian&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=cesaralvrz&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
