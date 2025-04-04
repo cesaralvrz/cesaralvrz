@@ -14,6 +14,7 @@
 * Visit my [personal website](https://cesaralvarez.dev/) 
 * Techstack: `.js`, `.vue`, `.jsx`, `.html`, `.css`, `.py` 
 * Founder of [Acadeller](https://github.com/Acadeller) 💡
+* Building [Feectory](https://feectory.com/) 📦
 
 ### Github Stats:
 
