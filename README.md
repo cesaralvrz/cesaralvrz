@@ -12,7 +12,7 @@
 
 * I am a Frontend Developer from [Asturias, Spain](https://www.youtube.com/watch?v=g4dUHEkAL4M&ab_channel=TurismoAsturias) 🇪🇸
 * Visit my [personal website](https://cesaralvarez.dev/) 
-* Techstack: `.js`, `.vue`, `.jsx`, `.html`, `.css`, `.py` 
+* Techstack: `.js`, `.vue`, `.jsx`, `.ts`, `.css`, `.py` 
 * Founder of [Acadeller](https://github.com/Acadeller) 💡
 * Building [Feectory](https://feectory.com/) 📦
 
