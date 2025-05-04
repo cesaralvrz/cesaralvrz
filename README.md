@@ -21,6 +21,5 @@
 ![Stats Overview](https://raw.githubusercontent.com/cesaralvrz/github-stats-transparent/output/generated/overview.svg)
 ![Most Used Languages](https://raw.githubusercontent.com/cesaralvrz/github-stats-transparent/output/generated/languages.svg)
 
-![](https://visitor-badge.glitch.me/badge?page_id=cesaralvrz.cesaralvrz)
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
 
