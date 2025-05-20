@@ -1,4 +1,4 @@
-[![César Álvarez](https://github.com/cesaralvrz/cesaralvrz/blob/master/img/banner.png)](https://cesaralvarez.dev/)
+[![César Álvarez](https://github.com/cesaralvrz/cesaralvrz/blob/main/img/banner.png)](https://cesaralvarez.dev/)
 
 ## Hey, I'm César!
 
