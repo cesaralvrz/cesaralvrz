@@ -13,7 +13,7 @@
 
 ### GitHub Stats
 
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/cesaralvrz?cardType=github&theme=dracula&fontFamily=&preferLogin=false)](https://git.io/awesome-stats-card)
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/cesaralvrz?cardType=github&theme=dracula&fontFamily=Poppins&preferLogin=false)](https://git.io/awesome-stats-card)
 
 ![Most Used Languages](https://raw.githubusercontent.com/cesaralvrz/github-stats-transparent/output/generated/languages.svg)
 
