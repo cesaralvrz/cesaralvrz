@@ -13,7 +13,7 @@
 
 ### GitHub Stats
 
-  <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=github&theme=dracula&fontFamily=Poppins&preferLogin=false">    <img  alt="cesaralvrz's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/cesaralvrz?cardType=github&theme=dracula&fontFamily=Poppins&preferLogin=false" />  </a>
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/cesaralvrz?cardType=github&theme=dracula&fontFamily=Roboto&preferLogin=false)](https://git.io/awesome-stats-card)
 
 ![Most Used Languages](https://raw.githubusercontent.com/cesaralvrz/github-stats-transparent/output/generated/languages.svg)
 
